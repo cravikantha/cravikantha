@@ -12,11 +12,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Project and Professional Aspects of IT**
+- 🌱 I’m**Aspiring DevOps Engineer **
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **java application | Web Development |**
 
 - 📫 How to reach me **cravikantha@gmail.com**
 
